@@ -46,7 +46,7 @@ Langkah-langkah
 
 1. Clone Repository
 
-  git clone [https://github.com/username-anda/metadata-generator.git](https://github.com/username-anda/metadata-generator.git)
+  git clone https://github.com/BalckWings/Generate_Metadata.git
   cd metadata-generator
 
 
