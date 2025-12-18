@@ -12,13 +12,13 @@ Aplikasi web modern berbasis React yang dirancang khusus untuk membantu kontribu
 
 📂 Multi-Agency Export: Ekspor metadata ke format CSV yang kompatibel dengan:
 
-Adobe Stock
+1. Adobe Stock
 
-Shutterstock
+2. Shutterstock
 
-Freepik
+3. Freepik
 
-Format Universal
+4. Format Universal
 
 📋 Copy-Paste Ready: Tombol cepat untuk menyalin keyword atau deskripsi ke clipboard.
 
@@ -26,13 +26,13 @@ Format Universal
 
 🛠️ Teknologi yang Digunakan
 
-React.js - Library UI utama.
+1. React.js - Library UI utama.
 
-Vite - Build tool yang super cepat.
+2. Vite - Build tool yang super cepat.
 
-Tailwind CSS - Framework CSS untuk styling.
+3. Tailwind CSS - Framework CSS untuk styling.
 
-Lucide React - Ikon antarmuka yang ringan.
+4. Lucide React - Ikon antarmuka yang ringan.
 
 ⚙️ Cara Menjalankan (Instalasi)
 
@@ -44,24 +44,24 @@ Pastikan Anda sudah menginstal Node.js di komputer Anda.
 
 Langkah-langkah
 
-Clone Repository
+1. Clone Repository
 
-git clone [https://github.com/username-anda/metadata-generator.git](https://github.com/username-anda/metadata-generator.git)
-cd metadata-generator
-
-
-Install Dependencies
-
-npm install
+  git clone [https://github.com/username-anda/metadata-generator.git](https://github.com/username-anda/metadata-generator.git)
+  cd metadata-generator
 
 
-Jalankan Aplikasi
+2. Install Dependencies
 
-npm run dev
+   npm install
 
 
-Buka di Browser
-Aplikasi biasanya akan berjalan di http://localhost:5173.
+3. Jalankan Aplikasi
+
+    npm run dev
+
+
+4. Buka di Browser
+    Aplikasi biasanya akan berjalan di http://localhost:5173.
 
 📖 Panduan Penggunaan
 
@@ -81,25 +81,25 @@ Versi ini adalah Prototipe. Fitur "Generate AI" saat ini menggunakan Mock Data (
 
 Untuk penggunaan produksi yang sebenarnya (Real AI), Anda perlu menghubungkan fungsi generateMetadata ke API Vision seperti:
 
-OpenAI GPT-4 Vision API
+1. OpenAI GPT-4 Vision API
 
-Google Gemini Pro Vision API
+2. Google Gemini Pro Vision API
 
-Clarifai / Azure Computer Vision
+3. Clarifai / Azure Computer Vision
 
 🤝 Kontribusi
 
 Kontribusi selalu diterima! Silakan buat Pull Request jika Anda ingin menambahkan fitur baru atau memperbaiki bug.
 
-Fork proyek ini.
+1. Fork proyek ini.
 
-Buat branch fitur (git checkout -b fitur-keren).
+2. Buat branch fitur (git checkout -b fitur-keren).
 
-Commit perubahan (git commit -m 'Menambahkan fitur keren').
+3. Commit perubahan (git commit -m 'Menambahkan fitur keren').
 
-Push ke branch (git push origin fitur-keren).
+4. Push ke branch (git push origin fitur-keren).
 
-Buka Pull Request.
+5. Buka Pull Request.
 
 📄 Lisensi
 
